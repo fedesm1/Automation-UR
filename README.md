@@ -30,5 +30,7 @@ como la configuración de rutas, selección de tarifas, ingreso de información 
 
 - Archivos: 
 1. data.py, guarda datos importantes para la interacción con la página web, como la URL y datos de entrada para formularios.
-2. main.py, contiene las clases, importaciones y funciones necesarias para ejecutar las pruebas.
+2. main.py, contiene las funciones necesarias para ejecutar las pruebas.
 3. README.md, contiene los detalles del proyecto.
+4. Pages.py, contiene las clases y metodos definiendo la paguina web
+5. Helpers, contiene la funcion encesaria para confirmar el codigo de telefono
